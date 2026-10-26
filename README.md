@@ -1,4 +1,4 @@
-# Hey, I'm Danilo 
+# Hi, I'm Danilo 
 
 Computer Science student at **Računarski fakultet (RAF)**.
 
