@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Danilo 
 
-<!--
-**daniloavramovic006/daniloavramovic006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at **Računarski fakultet (RAF)**.
 
-Here are some ideas to get you started:
+Interested in software development, problem-solving, and building useful things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning Java, C/C++, Data Structures & Algorithms, and Git.
+
+Always looking for opportunities to learn, collaborate, and build cool projects.
+
+Open to hackathons, interesting projects, and connecting with other developers.
+
+Learning by building. Getting better every day.
